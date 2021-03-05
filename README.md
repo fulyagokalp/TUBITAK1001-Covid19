@@ -7,9 +7,15 @@ This repository includes the R-codes used in the outputs of the project named "S
 Proje ekibi aşağıdadır / The project team is listed below:
 
 Olçay Arslan
+
 Fulya Gökalp Yavuz
+
 Yeşim Güney
+
 Şenay Özdemir
+
 Yetkin Tuaç
+
 Hülya Dalkılıç
+
 Aslıhan Asena Köprü
